@@ -8,5 +8,10 @@ import 'package:flutter/material.dart';
 //import 'package:flutter_application_2/temperatureApp.dart';
 //import 'package:flutter_application_2/listViewApp.dart';
 //import 'package:flutter_application_2/feedbackScreen.dart';
-import 'package:flutter_application_2/marketApp.dart';
-void main() => runApp(MarketApp());
+//import 'package:flutter_application_2/myProjectOsh.dart';
+//import 'package:flutter_application_2/navigatorApp.dart';
+import 'package:flutter_application_2/shopapp.dart';
+void main() => runApp(ShopApp());
+
+
+
